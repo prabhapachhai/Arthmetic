@@ -1,0 +1,13 @@
+C:\Users\12144\source\repos\Arthmetic\Arthmetic\bin\Debug\netcoreapp3.1\Arthmetic.exe
+C:\Users\12144\source\repos\Arthmetic\Arthmetic\bin\Debug\netcoreapp3.1\Arthmetic.deps.json
+C:\Users\12144\source\repos\Arthmetic\Arthmetic\bin\Debug\netcoreapp3.1\Arthmetic.runtimeconfig.json
+C:\Users\12144\source\repos\Arthmetic\Arthmetic\bin\Debug\netcoreapp3.1\Arthmetic.runtimeconfig.dev.json
+C:\Users\12144\source\repos\Arthmetic\Arthmetic\bin\Debug\netcoreapp3.1\Arthmetic.dll
+C:\Users\12144\source\repos\Arthmetic\Arthmetic\bin\Debug\netcoreapp3.1\Arthmetic.pdb
+C:\Users\12144\source\repos\Arthmetic\Arthmetic\obj\Debug\netcoreapp3.1\Arthmetic.csprojAssemblyReference.cache
+C:\Users\12144\source\repos\Arthmetic\Arthmetic\obj\Debug\netcoreapp3.1\Arthmetic.AssemblyInfoInputs.cache
+C:\Users\12144\source\repos\Arthmetic\Arthmetic\obj\Debug\netcoreapp3.1\Arthmetic.AssemblyInfo.cs
+C:\Users\12144\source\repos\Arthmetic\Arthmetic\obj\Debug\netcoreapp3.1\Arthmetic.dll
+C:\Users\12144\source\repos\Arthmetic\Arthmetic\obj\Debug\netcoreapp3.1\Arthmetic.pdb
+C:\Users\12144\source\repos\Arthmetic\Arthmetic\obj\Debug\netcoreapp3.1\Arthmetic.genruntimeconfig.cache
+C:\Users\12144\source\repos\Arthmetic\Arthmetic\obj\Debug\netcoreapp3.1\Arthmetic.csproj.CoreCompileInputs.cache
